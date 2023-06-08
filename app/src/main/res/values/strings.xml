@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KotlinWallpaper</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="woman">Woman</string>
+    <string name="nature">Nature</string>
+    <string name="chip4k">chip4k</string>
+    <string name="_4k">4k</string>
+    <string name="animals">Animals</string>
+    <string name="fashion">Fashion</string>
+    <string name="beautiful">Beautiful</string>
+    <string name="flowers">Flowers</string>
+    <string name="cars">Cars</string>
+</resources>
